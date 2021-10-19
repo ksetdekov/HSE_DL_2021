@@ -19,7 +19,7 @@
 6. Свёрточные нейронные сети
    - [Convolution in CNN explained](https://www.youtube.com/watch?v=KTB_OFoAQcc)
 7. Inception. Resnet. Transfer learning. Metric Learning
-   - [ResNe](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
+   - [ResNet](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
    - [1x1 convolution](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)
 8. Интерпретация свёрточных нейронных сетей. Перенос стиля
    - [что выучивает сеть](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
