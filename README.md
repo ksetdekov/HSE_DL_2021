@@ -23,4 +23,4 @@
    - [1x1 convolution](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)
 8. Интерпретация свёрточных нейронных сетей. Перенос стиля
    - [что выучивает сеть](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
-   - [перенос стиля] (https://towardsdatascience.com/neural-style-transfer-applications-data-augmentation-43d1dc1aeecc) 
+   - [перенос стиля](https://towardsdatascience.com/neural-style-transfer-applications-data-augmentation-43d1dc1aeecc) 
