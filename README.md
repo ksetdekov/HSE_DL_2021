@@ -24,6 +24,7 @@
 8. Интерпретация свёрточных нейронных сетей. Перенос стиля
    - [что выучивает сеть](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
    - [перенос стиля](https://towardsdatascience.com/neural-style-transfer-applications-data-augmentation-43d1dc1aeecc) 
+   - [Unsampling: Unpooling and Transpose Convolution](https://medium.com/jun-devpblog/dl-12-unsampling-unpooling-and-transpose-convolution-831dc53687ce)
 9. Autoencoders. Manifold learning
    - [Что такое manifold. Интуиция, стоящая за этим понятием](https://bjlkeng.github.io/posts/manifolds/)
    - [Manifold learning и скрытые переменные](https://habr.com/ru/post/331500/)
