@@ -25,6 +25,6 @@
    - [что выучивает сеть](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
    - [перенос стиля](https://towardsdatascience.com/neural-style-transfer-applications-data-augmentation-43d1dc1aeecc) 
 9. Autoencoders. Manifold learning
-   - [Что такое manifold. Интуиция, стоящая за этим понятием](https://bjlkeng.github.io/posts/manifolds/
+   - [Что такое manifold. Интуиция, стоящая за этим понятием](https://bjlkeng.github.io/posts/manifolds/)
    - [Manifold learning и скрытые переменные](https://habr.com/ru/post/331500/)
    - [Manifold learning on MNIST -> 2D-representation learned by an autoencoder](https://www.kaggle.com/apapiu/manifold-learning-and-autoencoders/notebook)
