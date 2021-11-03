@@ -7,6 +7,7 @@
 ### Программа курса + ссылки на хорошие материалы по теме
 1. Введение в нейросети
 2. Адаптивные варианты градиентного спуска
+   - [Почему momentum работает](https://distill.pub/2017/momentum/)
    - [Bias correction in Adam](https://www.youtube.com/watch?v=-0ZMU-gnm2g)
 3. Алгоритм обратного распространения ошибки
 4. Инструменты в Python для обучения нейронных сетей
@@ -31,4 +32,4 @@
    - [Manifold learning on MNIST -> 2D-representation learned by an autoencoder](https://www.kaggle.com/apapiu/manifold-learning-and-autoencoders/notebook)
 10. Генеративные нейронные сети
    - [GAN explained](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/lecture/gIAJ0/putting-it-all-together)
-   - [Deconvolution issue: checkerboard](https://distill.pub/2016/deconv-checkerboard/)
+   - [Deconvolution issue. Checkerboard](https://distill.pub/2016/deconv-checkerboard/)
