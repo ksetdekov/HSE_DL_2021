@@ -33,3 +33,4 @@
 10. Генеративные нейронные сети
    - [GAN explained](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/lecture/gIAJ0/putting-it-all-together)
    - [Deconvolution issue. Checkerboard](https://distill.pub/2016/deconv-checkerboard/)
+   - [VAE ultimate guide & intuition](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
