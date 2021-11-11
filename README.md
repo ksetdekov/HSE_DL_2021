@@ -45,3 +45,7 @@
    - [GAN explained](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/lecture/gIAJ0/putting-it-all-together)
    - [Deconvolution issue. Checkerboard](https://distill.pub/2016/deconv-checkerboard/)
    - [VAE ultimate guide & intuition](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+11. Введение в NLP, Word2Vec, эмбеддинги
+   - [MLE explained](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
+   - [Супер NLP guide от Lena Voita](https://lena-voita.github.io/nlp_course.html)
+   - [Word2Vec tutorial с математикой и кодом](https://nbviewer.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/tutorials/word2vec_demonzheg.ipynb)
