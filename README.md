@@ -52,3 +52,6 @@
 12. Рекуррентные нейросети: LSTM, GRU
    - [Variants of dropout](https://towardsdatascience.com/12-main-dropout-methods-mathematical-and-visual-explanation-58cdc2112293). Pay attention to RNN part
    - [Deep RNNs](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S)
+13. Свёрточные сети для NLP
+   - [Text Classification using CNN, RNN](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
+   - [CNN for Sentence Classification, Kim paper](https://arxiv.org/pdf/1408.5882.pdf)
