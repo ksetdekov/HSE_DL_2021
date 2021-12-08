@@ -56,7 +56,12 @@
    - [Text Classification using CNN, RNN](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
    - [CNN for Sentence Classification, Kim paper](https://arxiv.org/pdf/1408.5882.pdf)
 14. Seq2seq, Attention, ELMO, Fasttext
-   - [BERT, ELMO](https://jalammar.github.io/illustrated-bert/)
+   - [BERT, ELMO explained](https://jalammar.github.io/illustrated-bert/)
    - [Fasttext coding tutorial](https://towardsdatascience.com/fasttext-for-text-classification-a4b38cbff27c)
    - [spaCy vs NLTK vs gensim](https://www.kaggle.com/faressayah/nlp-with-spacy-nltk-gensim)
+15. Self-Attention. Transformer. BERT.
+   - [Transformers explained](https://jalammar.github.io/illustrated-transformer/)
+   - [BERT, ELMO explained](https://jalammar.github.io/illustrated-bert/)
+   - [Why BERT is called bidirectional](https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73)
+   - [Harvard transformer implementation](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
    
