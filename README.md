@@ -62,6 +62,8 @@
 15. Self-Attention. Transformer. BERT.
    - [Transformers explained](https://jalammar.github.io/illustrated-transformer/)
    - [BERT, ELMO explained](https://jalammar.github.io/illustrated-bert/)
-   - [Why BERT is called bidirectional](https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73)
+   - [Why BERT is called bidirectional?](https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73)
    - [Harvard transformer implementation](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
-   
+16. Intro to RL
+   - [Cross-entropy method](https://towardsdatascience.com/cross-entropy-method-for-reinforcement-learning-2b6de2a4f3a0)
+   - [Intro to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
